@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Estados">
+        <item>CDMX</item>
+        <item>Michoacan</item>
+        <item>Oaxaca</item>
+        <item>Tamaulipas</item>
+        <item>Estado de México</item>
+        <item>Coahuila</item>
+        <item>Cuernavaca</item>
+    </string-array>
+    <string-array name="Paises">
+        <item>México</item>
+        <item>USA</item>
+        <item>Canada</item>
+        <item>Bolivia</item>
+        <item>Argentina</item>
+        <item>Brasil</item>
+        <item>Venezuela</item>
+    </string-array>
+</resources>
